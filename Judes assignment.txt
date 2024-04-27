@@ -1,0 +1,30 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title> 326</title>
+    <style>
+        body{
+            background-color: rgb(2, 47, 74);
+        }
+        h1{
+            font-size: xx-large;
+        }
+        p{
+            font-weight: 1500;
+        }
+    </style>
+</head>
+<body>
+    <div style="margin-left: 200px;">
+        <h1>igboegwu.jude</h1>
+        <a href="">igboegwu.chidiebere@stu.cu.edu.ng</a>
+        <br>
+        <p>Attends Covenant University</p>
+
+    </div>
+    
+    
+</body>
+</html>
